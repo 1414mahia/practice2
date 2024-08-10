@@ -1,0 +1,19 @@
+.container{
+    background-color: gray;
+    height: 80vh;
+  
+}
+.banner-img{
+width: 200px;
+height: 200px;
+
+}
+
+h2{
+    margin-left: 100px;
+   
+    text-align: center;
+    font-size: medium;
+}
+.card{
+    margin-top: 10px;}
